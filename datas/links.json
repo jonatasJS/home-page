@@ -1,0 +1,12 @@
+[
+  {
+    "name": "WhatsApp",
+    "link": "https://web.whatsapp.com/",
+    "description": "O cliente web é simplesmente uma extensão do telefone do usuário. O WhatsApp Web apenas espelha as conversas e mensagens que eles recebem de seu dispositivo móvel."
+  },
+  {
+    "name": "YouTube",
+    "link": "https://www.youtube.com/",
+    "description": "O YouTube é um site gratuito de compartilhamento de vídeos que facilita a visualização de vídeos online. Você pode até criar e enviar seus próprios vídeos para compartilhar com outras pessoas."
+  }
+]
